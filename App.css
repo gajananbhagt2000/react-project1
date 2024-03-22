@@ -1,0 +1,28 @@
+.navbar-brand {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+  text-align: center;
+  font-size: 1.1rem;
+  margin-right: 10px;
+}
+
+.card-img-top{
+  height: 80px;
+  width: 100px;
+}
+
+
+.card {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+}
+
+.card-title {
+  text-align: center;
+  font-size: 1.5rem;
+}
